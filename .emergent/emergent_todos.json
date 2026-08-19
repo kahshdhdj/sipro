@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Pemulihan lingkungan + perbaikan bug laten seed.py",
+    "status": "completed"
+  },
+  {
+    "content": "Verifikasi baseline: poc_48 PASS + 36 gates OVERALL PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Penutupan Fase 48: E2E multi-peran + perbaiki 2 cacat nyata (AKSES DITOLAK /materials, uang muka menunggu keputusan)",
+    "status": "completed"
+  },
+  {
+    "content": "Rencana Fase 49 tertulis di plan.md (G1-G7) + Fase 50 (G8-G9)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 49 FASE 1: riset singkat (year-end closing, skema e-Faktur, e-Bupot) + baca modul GL/pajak yang ada",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 49 FASE 1: tulis poc/poc_49.py (10 user story) lalu HIJAUKAN",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 49 FASE 2: backend 49A-49G (closing_engine, tutup tahun, arus kas per proyek, owner pack, e-Faktur v2, e-Bupot, rekap SPT)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 49 FASE 2: frontend tab di /accounting, /accounting-reports, /tax (tanpa pintu sidebar baru)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 49 FASE 3: SSOT reference + seed_phase49 + RBAC + gate 37/38 + mutasi_49 + dok",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 49 FASE 3: E2E testing_agent_v3 multi-peran + perbaiki semua temuan",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 50: PWA offline terpadu (absensi+progres+foto) + serah terima unit/garansi/pasca-huni",
+    "status": "pending"
+  }
+]
